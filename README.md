@@ -10,6 +10,10 @@
 ## Statistics:
 - https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
+## Math:
+- https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+- https://www.youtube.com/user/professorleonard57/
+
 ## Computer Science:
 - https://github.com/llSourcell/Learn_Computer_Science_in_5_Months (Python focused)
 
